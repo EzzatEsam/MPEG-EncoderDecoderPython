@@ -10,4 +10,5 @@ This was a project for information theory course. The implementation is purely e
 ![](2024-05-20-06-34-49.png)
 
 
-
+## License
+[Apache 2.0](LICENSE)
